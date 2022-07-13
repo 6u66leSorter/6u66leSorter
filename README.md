@@ -8,7 +8,6 @@
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF??style=for-the-badge&logo=Flask&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML-FFFFFF??style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-FFFFFF??style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF??style=for-the-badge&logo=CSS3&logoColor=F7DF1E)
 
 ### Now I mainly develop frontend skills
 
