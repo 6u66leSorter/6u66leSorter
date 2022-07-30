@@ -9,6 +9,6 @@
 ![HTML5](https://img.shields.io/badge/HTML-FFFFFF??style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-FFFFFF??style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
-### Now I'm studying C#
+### Now I'm studying Kotlin
 
 ### Keep for updates...
