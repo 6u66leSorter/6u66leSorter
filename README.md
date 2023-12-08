@@ -3,6 +3,7 @@
 ## I'm Ivan) Young programmer from St. Petersburg)
 
 ### Languages and Tools
+![C\#](https://img.shields.io/badge/C\#-FFFFFF??style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![C++](https://img.shields.io/badge/C++-FFFFFF??style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-FFFFFF??style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF??style=for-the-badge&logo=Flask&logoColor=000000)
